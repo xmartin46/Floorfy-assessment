@@ -8,15 +8,15 @@
 * tqdm
 
 ## How to run
-```Python
+```shell
 git clone https://github.com/xmartin46/Floorfy-assessment.git
 ```
 
-```Python
+```shell
 cd Floorfy-assessment
 ```
 
-```Python
+```shell
 python3 <file-name>
 ```
 
