@@ -13,6 +13,10 @@ git clone https://github.com/xmartin46/Floorfy-assessment.git
 ```
 
 ```Python
+cd Floorfy-assessment
+```
+
+```Python
 python3 <file-name>
 ```
 
