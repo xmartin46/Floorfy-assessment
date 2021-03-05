@@ -149,8 +149,6 @@ def main():
         top_left, bottom_right = findImageInsideEquirectangular(equirectImgPath, subImgPath, methodName = methods[0])
         if top_left:
             print(f"Sub-Image '{subImgPath}' has been found in the rectangle starting from pixel top-left {top_left} to pixel bottom-right {bottom_right}.")
-        else:
-            print(f"Not enough descriptors found for sub-image '{subImgPath}'.")
 
 if __name__=="__main__":
     main()
