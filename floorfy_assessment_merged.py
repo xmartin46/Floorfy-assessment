@@ -147,8 +147,7 @@ def main():
 
     for subImgPath in subImgPaths:
         top_left, bottom_right = findImageInsideEquirectangular(equirectImgPath, subImgPath, methodName = methods[0])
-        if top_left:
-            print(f"Sub-Image '{subImgPath}' has been found in the rectangle starting from pixel top-left {top_left} to pixel bottom-right {bottom_right}.")
+        print(f"Sub-Image '{subImgPath}' has been found in the rectangle starting from pixel top-left {top_left} to pixel bottom-right {bottom_right}.")
 
 if __name__=="__main__":
     main()
