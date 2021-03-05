@@ -9,7 +9,7 @@
 
 # How to run
 ```Python
-git clone X
+git clone https://github.com/xmartin46/Floorfy-assessment.git
 ```
 
 ```Python
