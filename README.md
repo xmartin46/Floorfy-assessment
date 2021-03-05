@@ -1,7 +1,7 @@
 # FLOORFY ASSIGNMENT
 
 ## Libraries used
-* cv2
+* cv2 (opencv-python)
 * imutils
 * numpy
 * matplotlib
