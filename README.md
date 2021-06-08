@@ -10,13 +10,7 @@
 ## How to run
 ```shell
 git clone https://github.com/xmartin46/Floorfy-assessment.git
-```
-
-```shell
 cd Floorfy-assessment
-```
-
-```shell
 python3 <file-name>
 ```
 
